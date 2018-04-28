@@ -1,0 +1,17 @@
+div.a {
+    text-transform: uppercase;
+}
+
+div.b {
+    text-transform: lowercase;
+}
+
+div.c {
+    text-transform: capitalize;
+     color: red;  
+}
+
+.c::first-letter {
+    color: red;
+}
+
