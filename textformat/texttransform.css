@@ -2,13 +2,12 @@ div.a {
     text-transform: uppercase;
 }
 
-div.b {
+.b {
     text-transform: lowercase;
 }
 
-div.c {
+.c {
     text-transform: capitalize;
-     color: red;  
 }
 
 .c::first-letter {
